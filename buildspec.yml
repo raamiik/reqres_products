@@ -3,7 +3,7 @@ version: 0.2
 env:
   variables:
     IMAGE_REPO_NAME: "admin05-products"
-  _PROJECT_NAME: "admin05-products"
+    _PROJECT_NAME: "admin05-products"
 
 phases:
   install:
